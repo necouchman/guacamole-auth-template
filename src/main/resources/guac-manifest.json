@@ -1,0 +1,11 @@
+{
+    "guacamoleVersion" : "1.0.0",
+
+    "name"             : "Template Guacamole Authentication Extension",
+    "namespace"        : "template",
+
+    "authProviders"    : [
+        "com.example.guacamole.auth.template.TemplateAuthenticationClass"
+    ]
+
+}
